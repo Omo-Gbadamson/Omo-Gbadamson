@@ -10,7 +10,7 @@ I'm a Software Engineer, Product Manager, and Cloud Engineer who currently works
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, Python, DataScience and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineering, Frontend Engineer, UX Designer (Intern or Junior level),.
+- 💼 Job interests: Software Engineering, Frontend Engineer, Cloud Engineering, Data Analysis or UX Designer (Intern or Junior level),.
 - 📫 You can [view my resume](#) and contact me by emailing mailtogbadamosi.abubakar.95@gmail.com.
 
 ---
